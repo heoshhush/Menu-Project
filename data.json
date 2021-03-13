@@ -1,0 +1,88 @@
+{
+    "menuData" : [
+        {"id" : 1,
+        "imgSrc" : "img/1.jpg",
+        "menuName" : "Seared Orange & Mustard Horse",
+        "menuPirce" : "$15.99",
+        "type" : "lunch",
+        "menuDescription": "Car safety systems have come a long way, but he was out to prove they could be outsmarted."
+        },
+        {"id" : 2,
+            "imgSrc" : "img/2.jpg",
+            "menuName" : "Oven-Baked Mango & Pine Beef",
+            "menuPirce" : "$15.99",
+            "type" : "lunch",
+            "menuDescription": "The efficiency we have at removing trash has made creating trash more acceptable."
+        },
+        {"id" : 3,
+            "imgSrc" : "img/3.jpg",
+            "menuName" : "Praline Cheesecake",
+            "menuPirce" : "$10.99",
+            "type" : "breakfast",
+            "menuDescription": "I thought red would have felt warmer in summer but I didn't think about the equator."
+        },
+        {"id" : 4,
+            "imgSrc" : "img/4.jpg",
+            "menuName" : "Rum and Plum Ice Cream",
+            "menuPirce" : "$8.99",
+            "type" : "shakes",
+            "menuDescription": "Check back tomorrow; I will see if the book has arrived."
+        },
+        {"id" : 5,
+            "imgSrc" : "img/5.jpg",
+            "menuName" : "Fire-Grilled Pine Bake",
+            "menuPirce" : "$7.99",
+            "type" : "breakfast",
+            "menuDescription": "Poison ivy grew through the fence they said was impenetrable."
+        },
+        {"id" : 6,
+            "imgSrc" : "img/6.jpg",
+            "menuName" : "Infused Garlic & Lime Flatbrea",
+            "menuPirce" : "$13.99",
+            "type" : "lucnh",
+            "menuDescription": "The minute she landed she understood the reason this was a fly-over state."
+        },
+        {"id" : 7,
+            "imgSrc" : "img/7.jpg",
+            "menuName" : "Deep-Fried Mountain Lobster",
+            "menuPirce" : "$14.99",
+            "type" : "breakfast",
+            "menuDescription": "She is never happy until she finds something to be unhappy about; then, she is overjoyed."
+        },
+        {"id" : 8,
+            "imgSrc" : "img/8.jpg",
+            "menuName" : "Dried Creamy Crab",
+            "menuPirce" : "$20.99",
+            "type" : "breakfast",
+            "menuDescription": "The tears of a clown make my lipstick run, but my shower cap is still intact."
+        },
+        {"id" : 9,
+            "imgSrc" : "img/9.jpg",
+            "menuName" : "Gentle-Fried Bittersweet Duck",
+            "menuPirce" : "$26.99",
+            "type" : "breakfast",
+            "menuDescription": "David proudly graduated from high school top of his class at age 97."
+        },
+        {"id" : 10,
+            "imgSrc" : "img/10.jpg",
+            "menuName" : "Thermal-Cooked Basil & Cinnamon Mutton",
+            "menuPirce" : "$7.99",
+            "type" : "shakes",
+            "menuDescription": "The beauty of the African sunset disguised the danger lurking nearby."
+        },
+        {"id" : 11,
+            "imgSrc" : "img/11.jpg",
+            "menuName" : "White Wine and Avocado Surprise",
+            "menuPirce" : "$35.99",
+            "type" : "shakes",
+            "menuDescription": "Thirty years later, she still thought it was okay to put the toilet paper roll under rather than over."
+        },
+        {"id" : 12,
+            "imgSrc" : "img/12.jpg",
+            "menuName" : "Rum and Cardamom Cheesecake",
+            "menuPirce" : "$48.99",
+            "type" : "lunch",
+            "menuDescription": "He picked up trash in his spare time to dump in his neighbor's yard."
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 100vw;
+}
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header h1 {
+  font-size: 60px;
+}
+
+.header__divider {
+  width: 90px;
+  border-bottom: 6px solid darkviolet;
+  margin: -25px 0px 20px 0px;
+}
+
+.buttons button {
+  cursor: pointer;
+  background-color: white;
+  border: 2px solid darkmagenta;
+  border-radius: 5px;
+  outline: none;
+  padding: 5px 20px;
+  font-size: 14px;
+}
+.buttons button:hover {
+  background-color: darkmagenta;
+  color: white;
+}
+.section {
+  width: 1500px;
+  text-align: center;
+}
+
+.menuList {
+  display: flex;
+  flex-flow: row wrap;
+  list-style: none;
+  width: 1200px;
+  margin: auto;
+  margin-top: 50px;
+  padding-right: 30px;
+}
+
+.aMenu {
+  display: flex;
+  flex-flow: row;
+  width: 520px;
+  margin: 0px 0px 30px 30px;
+  height: 260px;
+}
+.nameAndPrice {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom: 1px solid powderblue;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  letter-spacing: 1.5px;
+}
+.menuText {
+  width: 260px;
+}
+.menuName {
+  font-size: 20px;
+  font-weight: bold;
+}
+.menuPrice {
+  font-size: 14px;
+  margin-top: 4px;
+  color: darkmagenta;
+  font-weight: bold;
+}
+.menuDescription {
+  margin-top: 15px;
+}
+.menuImg {
+  width: 170px;
+  height: auto;
+  margin-right: 15px;
+  border: 4px solid darkgray;
+  border-radius: 7px;
+}
+
+.hideMenu {
+  display: none;
+}
